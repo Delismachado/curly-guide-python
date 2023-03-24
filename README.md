@@ -1,9 +1,8 @@
-# Python Fluente - para estudos
-
+# Python Fluente e Entendendo Algoritmos
 ### Descrição
 
-Esse repositório reúne as anotações e códigos de estudo do livro Python Fluente do Luciano Ramalho
+Esse repositório reúne as anotações e códigos de estudo dos livros: Python Fluente do Luciano Ramalho e Entendendo Algoritmos
 
 ### Organização
 
-O repositório está organizado em pastas referentes aos capítulos do livro. 
+O repositório está organizado em pastas referentes aos capítulos/livros. 
